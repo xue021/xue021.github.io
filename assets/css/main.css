@@ -2366,6 +2366,13 @@ input, select, textarea {
 					margin: -50px 0 50px -40px;
 					width: auto;
 				}
+				.box .image .about {
+					position: relative;
+					left: 20px;
+					top: 20px;
+					margin: -50px 0 50px -40px;
+					width: auto;
+				}
 
 				.box.style1 {
 					max-width: 32em;
